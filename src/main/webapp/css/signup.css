@@ -1,0 +1,8 @@
+#signup-header-container > div > a {
+	float: right;
+}
+
+#signup-header-container {
+	margin-top: 20px;
+}
+

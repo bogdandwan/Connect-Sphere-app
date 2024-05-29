@@ -1,0 +1,21 @@
+#header-row {
+	margin-top:20px;
+}
+
+h1 {
+	color: grey;
+}
+
+h1 > span {
+	color: skyblue;
+}
+
+main {
+	margin-top: 150px;
+}
+
+footer {
+	height: 30px;
+	text-align: center;
+	background-color: #e8e6e6;
+}

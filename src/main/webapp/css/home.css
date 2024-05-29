@@ -1,0 +1,23 @@
+h1 > span {
+	color: skyblue;
+}
+
+main {
+	margin-top: 50px;
+}
+
+#postCreateRow {
+	margin-top: 20px;
+}
+
+.postActions {
+	font-size:12px;
+}
+
+.edit {
+	color: #d4cfcf;
+}
+
+.delete {
+	color: #f27474;
+}
